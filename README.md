@@ -41,7 +41,7 @@ An interactive Reveal.js presentation covering Node.js database integration — 
 
 - [Reveal.js 4.6.1](https://revealjs.com/) — HTML presentation framework
 - [Highlight.js](https://highlightjs.org/) — syntax highlighting (Monokai theme)
-- [Google Fonts](https://fonts.google.com/) — Playfair Display, DM Sans, JetBrains Mono
+- [Google Fonts](https://fonts.google.com/) — Outfit, Plus Jakarta Sans, Fira Code
 
 ## 📚 References
 
